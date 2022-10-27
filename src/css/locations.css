@@ -1,0 +1,17 @@
+
+
+#location-container{
+    margin-top: 2rem;
+}
+
+.divider{
+    margin: 10px 0px 10px 0px;
+    width: 30%;
+    border: 0.1px solid grey ;
+    opacity: 0.3;
+}
+
+#table{
+    width: 50%;
+    margin: 0px 10% 0px 10%;
+}
